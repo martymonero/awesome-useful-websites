@@ -1022,6 +1022,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [VisualPDE](https://visualpde.com/) - Interactive platform for exploring science and mathematics, offering simulations on topics like waves, viruses, and reaction-diffusion patterns.
 - [Whole Earth](https://wholeearth.info/) - Nearly-complete archive of Whole Earth publications, a series of journals and magazines published by Stewart Brand and the POINT Foundation from 1968 to 2002, made available for scholarship, education, and research purposes.
 - [Sketchplanations](https://sketchplanations.com/categories/science) - Collection of simple sketches and visual explanations on scientific concepts, aimed at making complex topics more accessible.
+- [Chempirical](https://chempirical.com/) - Free chemistry tools in the browser: a structure editor that checks valences as you draw, an NMR spectrum predictor, an equation balancer, pH, stoichiometry and distillation calculators, and property data for 48,000 compounds.
 
 ### Biographies
 
