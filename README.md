@@ -77,6 +77,7 @@ Each website is included only once. Some websites can fall into multiple categor
     - [X / Twitter](#x--twitter)
     - [Reddit](#reddit)
     - [Discord](#discord)
+    - [Pinterest](#pinterest)
   - [Economy](#economy)
   - [Business](#business)
     - [Finance](#finance)
@@ -649,6 +650,10 @@ Each website is included only once. Some websites can fall into multiple categor
 ### Discord
 
 - [Blobs](https://blobs.gg/) - Collection of over 4400 fun and playful custom emoji for Discord.
+
+### Pinterest
+
+- [Pingroupie](https://pingroupie.com/boards) - Directory of Pinterest group boards by niche, with followers, members and whether a board took join requests, figures as of October 2026.
 
 ## Economy
 
